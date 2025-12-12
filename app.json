@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "project_react_native",
-    "slug": "project_react_native",
+    "slug": "kleysermejia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,8 +27,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9364378f-5716-43d3-9f72-75d671db6073"
+        "projectId": "85eeeb92-de4a-4519-a7c2-799743a82d75"
       }
-    }
+    },
+    "owner": "klmejia"
   }
 }
